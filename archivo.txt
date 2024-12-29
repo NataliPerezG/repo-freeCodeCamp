@@ -1,1 +1,2 @@
 archivo txt creado en github
+modificado en vscode
